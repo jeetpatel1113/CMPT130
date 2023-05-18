@@ -1,0 +1,22 @@
+﻿Build started 9/19/2022 5:21:08 PM.
+     1>Project "F:\FIC\Cmpt130\Programs\Simple Interest\Simple Interest\Simple Interest.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "F:\FIC\Cmpt130\Programs\Simple Interest\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Simple Interest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         F:\c++\Microsoft Visual C++ 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Simple Interest.cpp"
+         Simple Interest.cpp
+       Link:
+         F:\c++\Microsoft Visual C++ 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\FIC\Cmpt130\Programs\Simple Interest\Debug\Simple Interest.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Simple Interest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\FIC\Cmpt130\Programs\Simple Interest\Debug\Simple Interest.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\FIC\Cmpt130\Programs\Simple Interest\Debug\Simple Interest.lib" /MACHINE:X86 "Debug\Simple Interest.obj"
+         Simple Interest.vcxproj -> F:\FIC\Cmpt130\Programs\Simple Interest\Debug\Simple Interest.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\FIC\Cmpt130\Programs\Simple Interest\Debug\Simple Interest.exe;#1" /manifest "Debug\Simple Interest.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Simple Interest.unsuccessfulbuild".
+         Touching "Debug\Simple Interest.lastbuildstate".
+     1>Done Building Project "F:\FIC\Cmpt130\Programs\Simple Interest\Simple Interest\Simple Interest.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.86

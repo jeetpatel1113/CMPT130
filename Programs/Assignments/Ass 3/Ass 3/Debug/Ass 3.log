@@ -1,0 +1,17 @@
+﻿Build started 11/30/2022 4:04:37 PM.
+     1>Project "F:\FIC\Cmpt130\Programs\Assignments\Ass 3\Ass 3\Ass 3.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Ass 3.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Ass 3.cpp"
+         Ass 3.cpp
+     1>f:\fic\cmpt130\programs\assignments\ass 3\ass 3\ass 3.cpp(263): error C2561: 'zigzagMerge' : function must return a value
+                 f:\fic\cmpt130\programs\assignments\ass 3\ass 3\ass 3.cpp(247) : see declaration of 'zigzagMerge'
+     1>f:\fic\cmpt130\programs\assignments\ass 3\ass 3\ass 3.cpp(275): error C2561: 'getSubString' : function must return a value
+                 f:\fic\cmpt130\programs\assignments\ass 3\ass 3\ass 3.cpp(266) : see declaration of 'getSubString'
+     1>f:\fic\cmpt130\programs\assignments\ass 3\ass 3\ass 3.cpp(318): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>Done Building Project "F:\FIC\Cmpt130\Programs\Assignments\Ass 3\Ass 3\Ass 3.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.39

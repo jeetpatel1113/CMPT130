@@ -1,0 +1,13 @@
+﻿Build started 10/13/2022 10:56:37 AM.
+     1>Project "F:\FIC\Cmpt130\Programs\Week 6\print reverse\print reverse\print reverse.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\print reverse.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "print reverse.cpp"
+         print reverse.cpp
+     1>f:\fic\cmpt130\programs\week 6\print reverse\print reverse\print reverse.cpp(12): error C4716: 'printReverse' : must return a value
+     1>Done Building Project "F:\FIC\Cmpt130\Programs\Week 6\print reverse\print reverse\print reverse.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.51

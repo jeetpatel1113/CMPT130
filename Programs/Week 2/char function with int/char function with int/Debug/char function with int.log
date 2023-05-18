@@ -1,0 +1,26 @@
+﻿Build started 9/19/2022 1:10:51 PM.
+     1>Project "F:\FIC\Cmpt130\Programs\char function with int\char function with int\char function with int.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "F:\FIC\Cmpt130\Programs\char function with int\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\char function with int.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         F:\c++\Microsoft Visual C++ 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "char function with int.cpp"
+         char function with int.cpp
+     1>f:\fic\cmpt130\programs\char function with int\char function with int\char function with int.cpp(6): warning C4305: 'initializing' : truncation from 'int' to 'char'
+     1>f:\fic\cmpt130\programs\char function with int\char function with int\char function with int.cpp(6): warning C4309: 'initializing' : truncation of constant value
+     1>f:\fic\cmpt130\programs\char function with int\char function with int\char function with int.cpp(7): warning C4305: 'initializing' : truncation from 'int' to 'char'
+     1>f:\fic\cmpt130\programs\char function with int\char function with int\char function with int.cpp(7): warning C4309: 'initializing' : truncation of constant value
+       Link:
+         F:\c++\Microsoft Visual C++ 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\FIC\Cmpt130\Programs\char function with int\Debug\char function with int.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\char function with int.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\FIC\Cmpt130\Programs\char function with int\Debug\char function with int.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\FIC\Cmpt130\Programs\char function with int\Debug\char function with int.lib" /MACHINE:X86 "Debug\char function with int.obj"
+         char function with int.vcxproj -> F:\FIC\Cmpt130\Programs\char function with int\Debug\char function with int.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\FIC\Cmpt130\Programs\char function with int\Debug\char function with int.exe;#1" /manifest "Debug\char function with int.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\char function with int.unsuccessfulbuild".
+         Touching "Debug\char function with int.lastbuildstate".
+     1>Done Building Project "F:\FIC\Cmpt130\Programs\char function with int\char function with int\char function with int.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.84

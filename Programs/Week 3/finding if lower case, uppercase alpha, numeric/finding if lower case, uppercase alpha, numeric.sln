@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "finding if lower case, uppercase alpha, numeric", "finding if lower case, uppercase alpha, numeric\finding if lower case, uppercase alpha, numeric.vcxproj", "{661E74F3-F85E-4E77-A98B-8AA7AF98EEC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{661E74F3-F85E-4E77-A98B-8AA7AF98EEC5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{661E74F3-F85E-4E77-A98B-8AA7AF98EEC5}.Debug|Win32.Build.0 = Debug|Win32
+		{661E74F3-F85E-4E77-A98B-8AA7AF98EEC5}.Release|Win32.ActiveCfg = Release|Win32
+		{661E74F3-F85E-4E77-A98B-8AA7AF98EEC5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "if else statement", "if else statement\if else statement.vcxproj", "{469C3CC2-7C4B-4C16-9CA6-D5687F38C4EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{469C3CC2-7C4B-4C16-9CA6-D5687F38C4EF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{469C3CC2-7C4B-4C16-9CA6-D5687F38C4EF}.Debug|Win32.Build.0 = Debug|Win32
+		{469C3CC2-7C4B-4C16-9CA6-D5687F38C4EF}.Release|Win32.ActiveCfg = Release|Win32
+		{469C3CC2-7C4B-4C16-9CA6-D5687F38C4EF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

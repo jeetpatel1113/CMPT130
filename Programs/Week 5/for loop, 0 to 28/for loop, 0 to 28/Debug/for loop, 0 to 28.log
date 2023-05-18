@@ -1,0 +1,22 @@
+﻿Build started 10/6/2022 10:25:17 AM.
+     1>Project "F:\FIC\Cmpt130\Programs\Week 5\for loop, 0 to 28\for loop, 0 to 28\for loop, 0 to 28.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\for loop, 0 to 28.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         F:\c++\Microsoft Visual C++ 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "for loop, 0 to 28.cpp"
+         for loop, 0 to 28.cpp
+     1>f:\fic\cmpt130\programs\week 5\for loop, 0 to 28\for loop, 0 to 28\for loop, 0 to 28.cpp(7): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         F:\c++\Microsoft Visual C++ 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\FIC\Cmpt130\Programs\Week 5\for loop, 0 to 28\Debug\for loop, 0 to 28.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\for loop, 0 to 28.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\FIC\Cmpt130\Programs\Week 5\for loop, 0 to 28\Debug\for loop, 0 to 28.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\FIC\Cmpt130\Programs\Week 5\for loop, 0 to 28\Debug\for loop, 0 to 28.lib" /MACHINE:X86 "Debug\for loop, 0 to 28.obj"
+         LINK : F:\FIC\Cmpt130\Programs\Week 5\for loop, 0 to 28\Debug\for loop, 0 to 28.exe not found or not built by the last incremental link; performing full link
+         for loop, 0 to 28.vcxproj -> F:\FIC\Cmpt130\Programs\Week 5\for loop, 0 to 28\Debug\for loop, 0 to 28.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\FIC\Cmpt130\Programs\Week 5\for loop, 0 to 28\Debug\for loop, 0 to 28.exe;#1" /manifest "Debug\for loop, 0 to 28.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\for loop, 0 to 28.unsuccessfulbuild".
+         Touching "Debug\for loop, 0 to 28.lastbuildstate".
+     1>Done Building Project "F:\FIC\Cmpt130\Programs\Week 5\for loop, 0 to 28\for loop, 0 to 28\for loop, 0 to 28.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.78

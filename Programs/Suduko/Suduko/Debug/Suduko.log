@@ -1,0 +1,4 @@
+﻿  Suduko.cpp
+f:\fic\cmpt130\programs\suduko\suduko\suduko.cpp(96): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : F:\FIC\Cmpt130\Programs\Suduko\Debug\Suduko.exe not found or not built by the last incremental link; performing full link
+  Suduko.vcxproj -> F:\FIC\Cmpt130\Programs\Suduko\Debug\Suduko.exe

@@ -1,0 +1,19 @@
+﻿Build started 11/15/2022 5:58:02 PM.
+     1>Project "F:\FIC\Cmpt130\Programs\Assignments\quiz 1\quiz 1\quiz 1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\quiz 1.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "quiz 1.cpp"
+         quiz 1.cpp
+     1>f:\fic\cmpt130\programs\assignments\quiz 1\quiz 1\quiz 1.cpp(102): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>f:\fic\cmpt130\programs\assignments\quiz 1\quiz 1\quiz 1.cpp(133): error C3872: '0xa0': this character is not allowed in an identifier
+     1>f:\fic\cmpt130\programs\assignments\quiz 1\quiz 1\quiz 1.cpp(133): error C3872: '0xa0': this character is not allowed in an identifier
+     1>f:\fic\cmpt130\programs\assignments\quiz 1\quiz 1\quiz 1.cpp(133): error C3872: '0xa0': this character is not allowed in an identifier
+     1>f:\fic\cmpt130\programs\assignments\quiz 1\quiz 1\quiz 1.cpp(133): error C3872: '0xa0': this character is not allowed in an identifier
+     1>f:\fic\cmpt130\programs\assignments\quiz 1\quiz 1\quiz 1.cpp(133): error C3872: '0xa0': this character is not allowed in an identifier
+     1>f:\fic\cmpt130\programs\assignments\quiz 1\quiz 1\quiz 1.cpp(133): error C2065: '    return 0' : undeclared identifier
+     1>Done Building Project "F:\FIC\Cmpt130\Programs\Assignments\quiz 1\quiz 1\quiz 1.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.35

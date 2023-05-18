@@ -1,0 +1,22 @@
+﻿Build started 10/24/2022 11:46:27 PM.
+     1>Project "F:\FIC\Cmpt130\Programs\Week 7\isprime\isprime\isprime.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\isprime.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt isprime.cpp
+         isprime.cpp
+     1>f:\fic\cmpt130\programs\week 7\isprime\isprime\isprime.cpp(17): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\FIC\Cmpt130\Programs\Week 7\isprime\Debug\isprime.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\isprime.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\FIC\Cmpt130\Programs\Week 7\isprime\Debug\isprime.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\FIC\Cmpt130\Programs\Week 7\isprime\Debug\isprime.lib" /MACHINE:X86 Debug\isprime.obj
+         LINK : F:\FIC\Cmpt130\Programs\Week 7\isprime\Debug\isprime.exe not found or not built by the last incremental link; performing full link
+         isprime.vcxproj -> F:\FIC\Cmpt130\Programs\Week 7\isprime\Debug\isprime.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\FIC\Cmpt130\Programs\Week 7\isprime\Debug\isprime.exe;#1" /manifest Debug\isprime.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\isprime.unsuccessfulbuild".
+         Touching "Debug\isprime.lastbuildstate".
+     1>Done Building Project "F:\FIC\Cmpt130\Programs\Week 7\isprime\isprime\isprime.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.74

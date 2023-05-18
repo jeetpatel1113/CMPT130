@@ -1,0 +1,277 @@
+This program demonstrates a game popularly known as the Game of Pigs.
+There are two players in the game: a human and a computer.
+The game is played in turns where each player plays after the other player stops.
+At each turn a player rolls a die several times and sums the points scored to compute a turn score.
+The game is won by the player who first reaches a total score of 100 points or more.
+Any of the two players can start the game. In this program the computer will start the game.
+
+The computer plays with the following rule:
+        It rolls a die repeatedly where at each roll a point between 1 and 6 is scored.
+        If the point scored is 1, then the computer turn ends with a score of zero points for the turn.
+        If the point scored is not 1, then it is added to the computer turn score and the computer rolls again.
+        The computer will stop its turn when its turn score reaches 20 points or more.
+Once the computer turn ends, then the human starts playing.
+
+The human plays with the following rule:
+        The human rolls a die repeatedly where at each roll a point between 1 and 6 is scored.
+        If the point scored is 1, then the human turn ends with zero points for the turn.
+        If the point scored is not 1, then it is added to the human turn score.
+        The human is then asked to choose to either roll again or to stop the turn.
+        If the human chooses to roll again then the human rolls again otherwise the human turn ends.
+Once the human turn ends, then the computer starts playing.
+
+Any of the players will also stop its turn when the players wins the game.
+Press any key to continue . . .
+
+Computer Playing... [Computer Total Score so far = 0]
+--->Rolled and got 6 points.
+        Turn score so far = 6 and computer total score if turn stopped here = 6
+--->Rolled and got 6 points.
+        Turn score so far = 12 and computer total score if turn stopped here = 12
+--->Rolled and got 5 points.
+        Turn score so far = 17 and computer total score if turn stopped here = 17
+--->Rolled and got 5 points.
+        Turn score so far = 22 and computer total score if turn stopped here = 22
+Computer turn stopped with a score of 22 points.
+Computer total score so far = 22
+Press any key to continue . . .
+
+Human Playing... [Human Total Score so far = 0]
+--->Rolled and got 6 points.
+        Turn score so far = 6 and human total score if turn stopped here = 6
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 5 points.
+        Turn score so far = 11 and human total score if turn stopped here = 11
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 1 points.
+Human turn stopped with a score of 0 points.
+Human total score so far = 0
+Press any key to continue . . .
+
+Computer Playing... [Computer Total Score so far = 22]
+--->Rolled and got 1 points.
+Computer turn stopped with a score of 0 points.
+Computer total score so far = 22
+Press any key to continue . . .
+
+Human Playing... [Human Total Score so far = 0]
+--->Rolled and got 5 points.
+        Turn score so far = 5 and human total score if turn stopped here = 5
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 3 points.
+        Turn score so far = 8 and human total score if turn stopped here = 8
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 6 points.
+        Turn score so far = 14 and human total score if turn stopped here = 14
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 6 points.
+        Turn score so far = 20 and human total score if turn stopped here = 20
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 2 points.
+        Turn score so far = 22 and human total score if turn stopped here = 22
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 4 points.
+        Turn score so far = 26 and human total score if turn stopped here = 26
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. s
+Human turn stopped with a score of 26 points.
+Human total score so far = 26
+Press any key to continue . . .
+
+Computer Playing... [Computer Total Score so far = 22]
+--->Rolled and got 2 points.
+        Turn score so far = 2 and computer total score if turn stopped here = 24
+--->Rolled and got 6 points.
+        Turn score so far = 8 and computer total score if turn stopped here = 30
+--->Rolled and got 2 points.
+        Turn score so far = 10 and computer total score if turn stopped here = 32
+--->Rolled and got 3 points.
+        Turn score so far = 13 and computer total score if turn stopped here = 35
+--->Rolled and got 4 points.
+        Turn score so far = 17 and computer total score if turn stopped here = 39
+--->Rolled and got 1 points.
+Computer turn stopped with a score of 0 points.
+Computer total score so far = 22
+Press any key to continue . . .
+
+Human Playing... [Human Total Score so far = 26]
+--->Rolled and got 4 points.
+        Turn score so far = 4 and human total score if turn stopped here = 30
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 1 points.
+Human turn stopped with a score of 0 points.
+Human total score so far = 26
+Press any key to continue . . .
+
+Computer Playing... [Computer Total Score so far = 22]
+--->Rolled and got 3 points.
+        Turn score so far = 3 and computer total score if turn stopped here = 25
+--->Rolled and got 4 points.
+        Turn score so far = 7 and computer total score if turn stopped here = 29
+--->Rolled and got 5 points.
+        Turn score so far = 12 and computer total score if turn stopped here = 34
+--->Rolled and got 5 points.
+        Turn score so far = 17 and computer total score if turn stopped here = 39
+--->Rolled and got 4 points.
+        Turn score so far = 21 and computer total score if turn stopped here = 43
+Computer turn stopped with a score of 21 points.
+Computer total score so far = 43
+Press any key to continue . . .
+
+Human Playing... [Human Total Score so far = 26]
+--->Rolled and got 3 points.
+        Turn score so far = 3 and human total score if turn stopped here = 29
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 3 points.
+        Turn score so far = 6 and human total score if turn stopped here = 32
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 6 points.
+        Turn score so far = 12 and human total score if turn stopped here = 38
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 6 points.
+        Turn score so far = 18 and human total score if turn stopped here = 44
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 1 points.
+Human turn stopped with a score of 0 points.
+Human total score so far = 26
+Press any key to continue . . .
+
+Computer Playing... [Computer Total Score so far = 43]
+--->Rolled and got 6 points.
+        Turn score so far = 6 and computer total score if turn stopped here = 49
+--->Rolled and got 1 points.
+Computer turn stopped with a score of 0 points.
+Computer total score so far = 43
+Press any key to continue . . .
+
+Human Playing... [Human Total Score so far = 26]
+--->Rolled and got 4 points.
+        Turn score so far = 4 and human total score if turn stopped here = 30
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 5 points.
+        Turn score so far = 9 and human total score if turn stopped here = 35
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 6 points.
+        Turn score so far = 15 and human total score if turn stopped here = 41
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 2 points.
+        Turn score so far = 17 and human total score if turn stopped here = 43
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. s
+Human turn stopped with a score of 17 points.
+Human total score so far = 43
+Press any key to continue . . .
+
+Computer Playing... [Computer Total Score so far = 43]
+--->Rolled and got 2 points.
+        Turn score so far = 2 and computer total score if turn stopped here = 45
+--->Rolled and got 1 points.
+Computer turn stopped with a score of 0 points.
+Computer total score so far = 43
+Press any key to continue . . .
+
+Human Playing... [Human Total Score so far = 43]
+--->Rolled and got 6 points.
+        Turn score so far = 6 and human total score if turn stopped here = 49
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 4 points.
+        Turn score so far = 10 and human total score if turn stopped here = 53
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 3 points.
+        Turn score so far = 13 and human total score if turn stopped here = 56
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 4 points.
+        Turn score so far = 17 and human total score if turn stopped here = 60
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 4 points.
+        Turn score so far = 21 and human total score if turn stopped here = 64
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. s
+Human turn stopped with a score of 21 points.
+Human total score so far = 64
+Press any key to continue . . .
+
+Computer Playing... [Computer Total Score so far = 43]
+--->Rolled and got 3 points.
+        Turn score so far = 3 and computer total score if turn stopped here = 46
+--->Rolled and got 4 points.
+        Turn score so far = 7 and computer total score if turn stopped here = 50
+--->Rolled and got 2 points.
+        Turn score so far = 9 and computer total score if turn stopped here = 52
+--->Rolled and got 6 points.
+        Turn score so far = 15 and computer total score if turn stopped here = 58
+--->Rolled and got 5 points.
+        Turn score so far = 20 and computer total score if turn stopped here = 63
+Computer turn stopped with a score of 20 points.
+Computer total score so far = 63
+Press any key to continue . . .
+
+Human Playing... [Human Total Score so far = 64]
+--->Rolled and got 6 points.
+        Turn score so far = 6 and human total score if turn stopped here = 70
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 3 points.
+        Turn score so far = 9 and human total score if turn stopped here = 73
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 5 points.
+        Turn score so far = 14 and human total score if turn stopped here = 78
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 4 points.
+        Turn score so far = 18 and human total score if turn stopped here = 82
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 4 points.
+        Turn score so far = 22 and human total score if turn stopped here = 86
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. s
+Human turn stopped with a score of 22 points.
+Human total score so far = 86
+Press any key to continue . . .
+
+Computer Playing... [Computer Total Score so far = 63]
+--->Rolled and got 2 points.
+        Turn score so far = 2 and computer total score if turn stopped here = 65
+--->Rolled and got 6 points.
+        Turn score so far = 8 and computer total score if turn stopped here = 71
+--->Rolled and got 4 points.
+        Turn score so far = 12 and computer total score if turn stopped here = 75
+--->Rolled and got 2 points.
+        Turn score so far = 14 and computer total score if turn stopped here = 77
+--->Rolled and got 5 points.
+        Turn score so far = 19 and computer total score if turn stopped here = 82
+--->Rolled and got 5 points.
+        Turn score so far = 24 and computer total score if turn stopped here = 87
+Computer turn stopped with a score of 24 points.
+Computer total score so far = 87
+Press any key to continue . . .
+
+Human Playing... [Human Total Score so far = 86]
+--->Rolled and got 6 points.
+        Turn score so far = 6 and human total score if turn stopped here = 92
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 3 points.
+        Turn score so far = 9 and human total score if turn stopped here = 95
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 1 points.
+Human turn stopped with a score of 0 points.
+Human total score so far = 86
+Press any key to continue . . .
+
+Computer Playing... [Computer Total Score so far = 87]
+--->Rolled and got 1 points.
+Computer turn stopped with a score of 0 points.
+Computer total score so far = 87
+Press any key to continue . . .
+
+Human Playing... [Human Total Score so far = 86]
+--->Rolled and got 5 points.
+        Turn score so far = 5 and human total score if turn stopped here = 91
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 5 points.
+        Turn score so far = 10 and human total score if turn stopped here = 96
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 3 points.
+        Turn score so far = 13 and human total score if turn stopped here = 99
+Do you want to roll again or stop the turn? Enter R to roll again or S to stop the turn. r
+--->Rolled and got 5 points.
+        Turn score so far = 18 and human total score if turn stopped here = 104
+Human stopping the turn because winning score is already reached.
+Human turn stopped with a score of 18 points.
+Human total score so far = 104
+Human Won the Game!
+Press any key to continue . . .

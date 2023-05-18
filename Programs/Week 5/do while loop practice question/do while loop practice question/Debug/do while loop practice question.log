@@ -1,0 +1,21 @@
+﻿Build started 10/6/2022 10:40:22 AM.
+     1>Project "F:\FIC\Cmpt130\Programs\Week 5\do while loop practice question\do while loop practice question\do while loop practice question.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\do while loop practice question.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         F:\c++\Microsoft Visual C++ 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "do while loop practice question.cpp"
+         do while loop practice question.cpp
+       Link:
+         F:\c++\Microsoft Visual C++ 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\FIC\Cmpt130\Programs\Week 5\do while loop practice question\Debug\do while loop practice question.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\do while loop practice question.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\FIC\Cmpt130\Programs\Week 5\do while loop practice question\Debug\do while loop practice question.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\FIC\Cmpt130\Programs\Week 5\do while loop practice question\Debug\do while loop practice question.lib" /MACHINE:X86 "Debug\do while loop practice question.obj"
+         LINK : F:\FIC\Cmpt130\Programs\Week 5\do while loop practice question\Debug\do while loop practice question.exe not found or not built by the last incremental link; performing full link
+         do while loop practice question.vcxproj -> F:\FIC\Cmpt130\Programs\Week 5\do while loop practice question\Debug\do while loop practice question.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\FIC\Cmpt130\Programs\Week 5\do while loop practice question\Debug\do while loop practice question.exe;#1" /manifest "Debug\do while loop practice question.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\do while loop practice question.unsuccessfulbuild".
+         Touching "Debug\do while loop practice question.lastbuildstate".
+     1>Done Building Project "F:\FIC\Cmpt130\Programs\Week 5\do while loop practice question\do while loop practice question\do while loop practice question.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.73

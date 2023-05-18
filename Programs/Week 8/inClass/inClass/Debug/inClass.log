@@ -1,0 +1,13 @@
+﻿Build started 11/3/2022 10:52:57 AM.
+     1>Project "F:\FIC\Cmpt130\Programs\Week 8\inClass\inClass\inClass.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\inClass.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt inClass.cpp
+         inClass.cpp
+     1>f:\fic\cmpt130\programs\week 8\inclass\inclass\inclass.cpp(29): error C2100: illegal indirection
+     1>Done Building Project "F:\FIC\Cmpt130\Programs\Week 8\inClass\inClass\inClass.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.82

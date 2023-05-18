@@ -1,0 +1,22 @@
+﻿Build started 11/22/2022 3:25:42 PM.
+     1>Project "F:\FIC\Cmpt130\Programs\Assignments\extra\extra\extra.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "F:\FIC\Cmpt130\Programs\Assignments\extra\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\extra.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt extra.cpp
+         extra.cpp
+     1>f:\fic\cmpt130\programs\assignments\extra\extra\extra.cpp(5): error C3861: 'stringlength': identifier not found
+     1>f:\fic\cmpt130\programs\assignments\extra\extra\extra.cpp(7): error C3861: 'stringlength': identifier not found
+     1>f:\fic\cmpt130\programs\assignments\extra\extra\extra.cpp(31): error C3872: '0xa0': this character is not allowed in an identifier
+     1>f:\fic\cmpt130\programs\assignments\extra\extra\extra.cpp(31): error C3872: '0xa0': this character is not allowed in an identifier
+     1>f:\fic\cmpt130\programs\assignments\extra\extra\extra.cpp(31): error C3872: '0xa0': this character is not allowed in an identifier
+     1>f:\fic\cmpt130\programs\assignments\extra\extra\extra.cpp(31): error C3872: '0xa0': this character is not allowed in an identifier
+     1>f:\fic\cmpt130\programs\assignments\extra\extra\extra.cpp(31): error C3872: '0xa0': this character is not allowed in an identifier
+     1>f:\fic\cmpt130\programs\assignments\extra\extra\extra.cpp(31): error C2065: '    return 0' : undeclared identifier
+     1>Done Building Project "F:\FIC\Cmpt130\Programs\Assignments\extra\extra\extra.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.87

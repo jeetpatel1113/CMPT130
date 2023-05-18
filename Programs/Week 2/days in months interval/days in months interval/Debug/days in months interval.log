@@ -1,0 +1,22 @@
+﻿Build started 9/19/2022 11:53:41 PM.
+     1>Project "F:\FIC\Cmpt130\Programs\days in months interval\days in months interval\days in months interval.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "F:\FIC\Cmpt130\Programs\days in months interval\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\days in months interval.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         F:\c++\Microsoft Visual C++ 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "days in months interval.cpp"
+         days in months interval.cpp
+       Link:
+         F:\c++\Microsoft Visual C++ 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\FIC\Cmpt130\Programs\days in months interval\Debug\days in months interval.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\days in months interval.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\FIC\Cmpt130\Programs\days in months interval\Debug\days in months interval.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\FIC\Cmpt130\Programs\days in months interval\Debug\days in months interval.lib" /MACHINE:X86 "Debug\days in months interval.obj"
+         days in months interval.vcxproj -> F:\FIC\Cmpt130\Programs\days in months interval\Debug\days in months interval.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\FIC\Cmpt130\Programs\days in months interval\Debug\days in months interval.exe;#1" /manifest "Debug\days in months interval.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\days in months interval.unsuccessfulbuild".
+         Touching "Debug\days in months interval.lastbuildstate".
+     1>Done Building Project "F:\FIC\Cmpt130\Programs\days in months interval\days in months interval\days in months interval.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.35

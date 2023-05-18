@@ -1,0 +1,22 @@
+﻿Build started 9/30/2022 11:43:00 PM.
+     1>Project "F:\FIC\Cmpt130\Programs\Week 4\random int between x and y\random int between x and y\random int between x and y.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\random int between x and y.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         F:\c++\Microsoft Visual C++ 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "random int between x and y.cpp"
+         random int between x and y.cpp
+     1>f:\fic\cmpt130\programs\week 4\random int between x and y\random int between x and y\random int between x and y.cpp(7): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         F:\c++\Microsoft Visual C++ 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\FIC\Cmpt130\Programs\Week 4\random int between x and y\Debug\random int between x and y.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\random int between x and y.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\FIC\Cmpt130\Programs\Week 4\random int between x and y\Debug\random int between x and y.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\FIC\Cmpt130\Programs\Week 4\random int between x and y\Debug\random int between x and y.lib" /MACHINE:X86 "Debug\random int between x and y.obj"
+         LINK : F:\FIC\Cmpt130\Programs\Week 4\random int between x and y\Debug\random int between x and y.exe not found or not built by the last incremental link; performing full link
+         random int between x and y.vcxproj -> F:\FIC\Cmpt130\Programs\Week 4\random int between x and y\Debug\random int between x and y.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\FIC\Cmpt130\Programs\Week 4\random int between x and y\Debug\random int between x and y.exe;#1" /manifest "Debug\random int between x and y.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\random int between x and y.unsuccessfulbuild".
+         Touching "Debug\random int between x and y.lastbuildstate".
+     1>Done Building Project "F:\FIC\Cmpt130\Programs\Week 4\random int between x and y\random int between x and y\random int between x and y.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.40

@@ -1,0 +1,21 @@
+﻿Build started 11/5/2022 4:57:13 PM.
+     1>Project "F:\FIC\Cmpt130\Programs\Week 8\extra pointer and address\extra pointer and address\extra pointer and address.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\extra pointer and address.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "extra pointer and address.cpp"
+         extra pointer and address.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\FIC\Cmpt130\Programs\Week 8\extra pointer and address\Debug\extra pointer and address.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\extra pointer and address.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\FIC\Cmpt130\Programs\Week 8\extra pointer and address\Debug\extra pointer and address.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\FIC\Cmpt130\Programs\Week 8\extra pointer and address\Debug\extra pointer and address.lib" /MACHINE:X86 "Debug\extra pointer and address.obj"
+         LINK : F:\FIC\Cmpt130\Programs\Week 8\extra pointer and address\Debug\extra pointer and address.exe not found or not built by the last incremental link; performing full link
+         extra pointer and address.vcxproj -> F:\FIC\Cmpt130\Programs\Week 8\extra pointer and address\Debug\extra pointer and address.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\FIC\Cmpt130\Programs\Week 8\extra pointer and address\Debug\extra pointer and address.exe;#1" /manifest "Debug\extra pointer and address.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\extra pointer and address.unsuccessfulbuild".
+         Touching "Debug\extra pointer and address.lastbuildstate".
+     1>Done Building Project "F:\FIC\Cmpt130\Programs\Week 8\extra pointer and address\extra pointer and address\extra pointer and address.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.85

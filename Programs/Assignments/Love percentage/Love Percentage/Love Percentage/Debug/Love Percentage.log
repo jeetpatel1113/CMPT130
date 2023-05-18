@@ -1,0 +1,4 @@
+﻿  Love Percentage.cpp
+f:\fic\cmpt130\programs\assignments\love percentage\love percentage\love percentage\love percentage.cpp(34): warning C4018: '<' : signed/unsigned mismatch
+  LINK : F:\FIC\Cmpt130\Programs\Assignments\Love percentage\Love Percentage\Debug\Love Percentage.exe not found or not built by the last incremental link; performing full link
+  Love Percentage.vcxproj -> F:\FIC\Cmpt130\Programs\Assignments\Love percentage\Love Percentage\Debug\Love Percentage.exe

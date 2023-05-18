@@ -1,0 +1,17 @@
+﻿Build started 10/12/2022 10:50:06 PM.
+     1>Project "F:\FIC\Cmpt130\Programs\Week 5\question 12\question 12\question 12.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\question 12.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         question 12.vcxproj -> F:\FIC\Cmpt130\Programs\Week 5\question 12\Debug\question 12.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\question 12.unsuccessfulbuild".
+         Touching "Debug\question 12.lastbuildstate".
+     1>Done Building Project "F:\FIC\Cmpt130\Programs\Week 5\question 12\question 12\question 12.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06

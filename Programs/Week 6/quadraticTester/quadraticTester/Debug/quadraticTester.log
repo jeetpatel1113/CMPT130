@@ -1,0 +1,28 @@
+﻿Build started 10/20/2022 1:14:06 AM.
+     1>Project "F:\FIC\Cmpt130\Programs\Week 6\quadraticTester\quadraticTester\quadraticTester.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "F:\FIC\Cmpt130\Programs\Week 6\quadraticTester\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\quadraticTester.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt quadraticTester.cpp
+         quadraticTester.cpp
+     1>f:\fic\cmpt130\programs\week 6\quadratictester\quadratictester\quadratictester.cpp(7): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>f:\fic\cmpt130\programs\week 6\quadratictester\quadratictester\quadratictester.cpp(8): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>f:\fic\cmpt130\programs\week 6\quadratictester\quadratictester\quadratictester.cpp(16): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>f:\fic\cmpt130\programs\week 6\quadratictester\quadratictester\quadratictester.cpp(20): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\fic\cmpt130\programs\week 6\quadratictester\quadratictester\quadratictester.cpp(20): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\fic\cmpt130\programs\week 6\quadratictester\quadratictester\quadratictester.cpp(20): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\FIC\Cmpt130\Programs\Week 6\quadraticTester\Debug\quadraticTester.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\quadraticTester.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\FIC\Cmpt130\Programs\Week 6\quadraticTester\Debug\quadraticTester.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\FIC\Cmpt130\Programs\Week 6\quadraticTester\Debug\quadraticTester.lib" /MACHINE:X86 Debug\quadraticTester.obj
+         quadraticTester.vcxproj -> F:\FIC\Cmpt130\Programs\Week 6\quadraticTester\Debug\quadraticTester.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\FIC\Cmpt130\Programs\Week 6\quadraticTester\Debug\quadraticTester.exe;#1" /manifest Debug\quadraticTester.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\quadraticTester.unsuccessfulbuild".
+         Touching "Debug\quadraticTester.lastbuildstate".
+     1>Done Building Project "F:\FIC\Cmpt130\Programs\Week 6\quadraticTester\quadraticTester\quadraticTester.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.36
